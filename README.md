@@ -13,7 +13,7 @@ Press play in Unity and when session is done, press stop.
 
 
 
-Used project:
+Used projects:
 
 The code from these resources lay the groundwork for the project:
 
